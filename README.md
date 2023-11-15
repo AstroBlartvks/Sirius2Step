@@ -4,5 +4,7 @@ This repository was created to develop and train a fall detection model. The mai
 Папки test, train, valid имеют подпапки images и labels для YOLOv8:
 
 test - папка, где находятся картинки и метки для тестирования нейронной сети
+
 train - папка, где находятся картинки и метки для обучения нейронной сети
+
 valid - папка, где находятся картинки и метки для валидации нейронной сети
